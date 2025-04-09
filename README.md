@@ -1,4 +1,4 @@
-✨🚀 LIZZ VENTURE 🎢🌟             🌷🍄 LIZZ VENTURE 🦄🌈               🔥⚡ LIZZ VENTURE 💎🌪️
+✨🚀 LIZZ VENTURE 🎢🌟            🌷🍄 LIZZ VENTURE 🦄🌈             🔥⚡ LIZZ VENTURE 💎🌪️
 
 
 <!--h2 without bottom border-->
@@ -104,28 +104,23 @@ We are available for freelance collaborations, offering expert services across w
 *Languages and Tools:*
 
 <p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/R lang/Rlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sql/sql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/Power BI/Power BI-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejsnodejss-ar21.svg"></code>
+ 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
   <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/react/reactjs-ar21.svg"></code>
+ 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/ML/MLk-ar21.svg"></code>
+ >
   <br />
   
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
+ 
    <br />
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
@@ -145,6 +140,21 @@ We are available for freelance collaborations, offering expert services across w
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
+<br>
+<h1>🏆 LizzVallarie's Amazing Trophies</h1>
+<!-- Sparkling Stars -->
+  <div class="sparkle-container">
+    
+	  🏆Data Analytics✨
+    
+	  🏆Web Dev ✨
+    
+	  🏆Machine Learning ✨
+    
+  </div>
+ 
+     
+          
 
 
 
@@ -155,14 +165,14 @@ We are available for freelance collaborations, offering expert services across w
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=1010LizzVallarie&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LizzVallarie&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010LizzVallarie&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LizzVallarie&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010LizzVallarie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LizzVallarie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -172,7 +182,7 @@ We are available for freelance collaborations, offering expert services across w
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010LizzVallarie&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+     
     </a>
 </div>
 <!--- trophy (start) -->
